@@ -1,7 +1,7 @@
 ## Hi there I'm Diego Cortes
 
 Welcome to my GitHub profile
-I'm a passionate learner and software developer who enjoys exploring new technologies and building impactful solutions.
+I'm a passionate learner and software developer who enjoys exploring new technologies and building new solutions.
 
 - 🔭 I've worked for several years as a **Java developer**, but I also have experience with other languages such as **Python, JavaScript, and C#**
 - 🦀 A few years ago, I discovered **Rust**, and I've been learning and applying it in some of my work projects — I’m truly excited about the potential Rust holds for the future
